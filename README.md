@@ -24,7 +24,7 @@ Zeo_UC © 2018 zeo.im, Released under the MIT License.
 
 
 ### 功能说明
-小半(www.zeo.im)完全一样的用户中心功能，可实现包括：
+小半(www.zeo.im) 完全一样的用户中心功能，可实现包括：
 1. 用户登录
 2. 用户注册
 3. 用户头像修改/上传
