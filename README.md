@@ -77,13 +77,9 @@ Zeo_UC © 2018 zeo.im, Released under the MIT License.
 <br/>
 
 ### 界面截图
-![](https://static.ouorz.com/QQ20181002-194230@2x.png)
 ![](https://static.ouorz.com/QQ20181002-194136@2x.png)
-![](https://static.ouorz.com/QQ20181002-194220@2x.png)
 ![](https://static.ouorz.com/QQ20181002-194029@2x.png)
-![](https://static.ouorz.com/QQ20181002-194049@2x.png)
 ![](https://static.ouorz.com/QQ20181002-194120@2x.png)
-![](https://static.ouorz.com/QQ20181002-194200@2x.png)
 
 <br/>
 
