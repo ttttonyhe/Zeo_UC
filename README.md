@@ -92,4 +92,4 @@ Zeo_UC © 2018 zeo.im, Released under the MIT License.
 <br/>
 
 ### Enjoy!
-### 对了，不适配手机端哦(#滑稽
+### 对了，没有配css哦(#滑稽
