@@ -43,7 +43,7 @@ if( !empty($_POST['edit_info'])) {
         
     if(!$current_pass == ''){
        header("charset=utf-8");
-    @$con=mysqli_connect('127.0.0.1','root','Goodhlp616877','zeo',3306);
+    @$con=mysqli_connect('数据库连接信息填写在此');
     if (mysqli_errno($con)) {
         $error .='数据库连接失败<br />';
         exit;
