@@ -96,5 +96,5 @@ Zeo_UC © 2018 zeo.im, Released under the MIT License.
 
 <br/>
 
-### Enjoy!
-### 暂时没有配css
+### 温馨提示
+暂时没有配css :no_mouth:
