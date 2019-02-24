@@ -1,5 +1,9 @@
 # Zeo_UC
 ### 全功能WordPress用户中心(仅功能实现，插件开发中)
+<br/>
+插件持续开发中，请Star以激励辣鸡作者 :expressionless:
+<br/>
+https://github.com/HelipengTony/half-ucenter
 
 <br/>
 
